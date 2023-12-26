@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
 <h3 align="center">Currently I am learning more about Software Development and Data Structures and Algorithms.</h3>
 <img align="right" alt="Coding width="200" src="hC:\Users\om\Downloads\213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
