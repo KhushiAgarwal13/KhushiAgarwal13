@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiagarwal13&label=Profile%20views&color=0e75b6&style=flat" alt="khushiagarwal13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
  - 🎓  I'm a 3rd year Btech Student at Galgotias University, Greater Noida.
  
  - 🌱  Currently I am learning more about Software Development and Data Structures and Algorithms.
