@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding width="200" src="hC:\Users\om\Downloads\213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiagarwal13&label=Profile%20views&color=0e75b6&style=flat" alt="khushiagarwal13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **data structure and algorithm**
+- 💬 Feel free to reach out to me about opportunities as Software Developer
 
 - 📫 How to reach me **agarwalkhushi563@gmail.com**
 
