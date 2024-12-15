@@ -4,7 +4,7 @@
 <img align="rigt" alt="Coding" width="300" src="C:\Users\om\Downloads\213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" > 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiagarwal13&label=Profile%20views&color=0e75b6&style=flat" alt="khushiagarwal13" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="picture" /></a> </p>
 
  - 🎓  I'm a 3rd year Btech Student at Galgotias University, Greater Noida.
  
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-agarwal-91a808241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-agarwal-91a808241" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushi-agarwal-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-agarwal-91a808241" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=5hmwb78a1lfi&utm_content=nvv3wg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=5hmwb78a1lfi&utm_content=nvv3wg1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/invite/5aasx7ez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/invite/5aasx7ez/" height="30" width="40" /></a>
 </p>
