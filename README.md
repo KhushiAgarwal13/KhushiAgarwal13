@@ -3,7 +3,8 @@
 <h3 align="center">Currently I am learning more about Software Development and Data Structures and Algorithms.</h3>
 <img align="rigt" alt="Coding" width="300" src="C:\Users\om\Downloads\213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" > 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src=" alt="picture" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://github.com/user-attachments/assets/0c7b7b0e-2e0a-407c-b713-76e03e4ae30b" alt="picture" /></a> </p>
+
 
  - 🎓  I'm a Final year Btech Student at Galgotias University, Greater Noida.
  
